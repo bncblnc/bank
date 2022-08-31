@@ -9,6 +9,7 @@
     <p>Desenvolvido durante o curso "The Complete JavaScript Course 2022: From Zero to Expert!" na plataforma Udemy. </P>
 </div>
 
+<h3>▶ Como rodar:</h3>
 <div>
     <p>Abrir o "index.html" no navegador ou <a href="https://bncblnc.github.io/bank/">clicando aqui</a>.</p>
     <p>Existem três contas cadastradas:

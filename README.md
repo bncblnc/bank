@@ -1,4 +1,4 @@
-<h2 align="center"> 💲 BANK 💲 </h2>
+<div align="center"><img  alt="logo" height="100"  src="logo-readme.png"></div>
 <div>
     <p> Programa de simulação de contas bancárias, sendo possível transferir valor entre as contas existentes, solicitar empréstimo e encerrar a conta.</p>
     <h3>💻 TECNOLOGIAS:</h3>
